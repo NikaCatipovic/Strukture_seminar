@@ -1,0 +1,51 @@
+banana 490 1.10
+brasno 500 1.00
+caj crni 110 1.50
+caj zeleni 85 1.20
+cimet 30 1.05
+cokolada mlijecna 210 2.10
+cokolada tamna 160 3.00
+dzem jagoda 120 2.99
+govedi odrezak 95 10.00
+jabuka 520 1.10
+jaja 300 2.80
+jogurt 150 0.99
+kecap 200 1.20
+keks cokoladni 190 4.50
+keks maslac 170 3.80
+krastavac 280 1.05
+kruh 120 1.20
+krumpir 700 1.00
+kava instant 75 3.70
+kava mljevena 140 5.80
+limun 310 2.40
+luk 480 0.99
+maslac 90 2.90
+med cvjetni 85 5.40
+mlijeko 200 1.00
+mrkva 450 1.10
+naranca 460 1.80
+paprika crvena 260 2.00
+pileca prsa 145 7.00
+pivo svijetlo 320 2.00
+pivo tamno 140 2.20
+rajcica 300 1.10
+riba smrznuta 125 5.80
+riza 350 3.10
+salama kulen 70 2.40
+salama parizer 160 1.90
+sir gauda 80 2.00
+sir trapist 60 3.10
+sok jabuka 240 1.99
+sok naranca 260 1.99
+sol 250 1.01
+svinjski kotleti 110 10.30
+secer 400 1.01
+sunka 130 2.00
+tjestenina 420 2.50
+ulje maslinovo 95 9.00
+ulje suncokretovo 180 1.00
+vino bijelo 100 3.50
+vino crno 90 4.70
+voda mineralna 600 1.20
+voda negazirana 550 1.05
